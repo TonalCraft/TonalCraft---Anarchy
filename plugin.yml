@@ -1,0 +1,18 @@
+main: core.main
+name: Anarchy
+version: 0.0.1
+description: Anarchy core
+author: TonalSwitch
+website: tonalswit.ch
+
+commands:
+  sethome:
+    description: Sets your home location
+  home:
+    description: Teleport to your home
+  tpa:
+    description: Teleport to a player
+  tpdeny:
+      description: Deny a tpa request
+  tpaccept:
+      description: Accept a tpa request
