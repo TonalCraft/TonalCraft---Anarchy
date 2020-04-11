@@ -1,0 +1,6 @@
+main: core.main
+name: Anarchy
+version: 0.0.1
+description: Anarchy core
+author: TonalSwitch
+website: tonalswit.ch
